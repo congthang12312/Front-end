@@ -6,9 +6,9 @@ Template gốc: [Interior Solutions Template [nicepage.com]](https://nicepage.co
 Các biến thể:
 
 ### Đăng
-![#5d943e](https://placehold.it/15/5d943e/000000?text=+) #5d943e
+![#5d943e](https://placehold.it/15/5d943e/000000?text=+) [#5d943e](https://github.com/pthdang/Front-end/tree/main/Ex/Template/%235d943e)
 
-![#6e978d](https://placehold.it/15/6e978d/000000?text=+) #6e978d
+![#6e978d](https://placehold.it/15/6e978d/000000?text=+) [#6e978d](https://github.com/pthdang/Front-end/tree/main/Ex/Template/%236e978d)
 
 ### Thắng
 ![#827692](https://placehold.it/15/827692/000000?text=+) #827692
